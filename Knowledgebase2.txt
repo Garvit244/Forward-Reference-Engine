@@ -1,0 +1,20 @@
+R1. If price range 2000-5000rs then camera 2mp.
+R2. If price range 5000-10000rs then camera 5mp.
+R3. If price range 10000-18000rs then camera 5mp-8mp.
+R4. If price range above 18000rs then camera 8mp.
+R5. If Window OS then choose Nokia Phone.
+R6. If camera 2mp then TFT Display.
+R7. If camera 5mp then LCD Display.
+R8. If camera 5mp-8mp then HD Display.
+R9. If camera 8mp then Super Amoled Display.
+R10. If Android OS and TFT Display then choose Samsung Galaxy Star.
+R11. If Android OS and LCD Display then choose Samsung Galaxy S Duos.
+R12. If Nokia Phone and LCD Display then choose Lumia 520.
+R13. If Android OS and HD Display then choose Micromax Canvas HD.
+R14. If Nokia Phone and HD Display then choose Lumia 720.
+R15. If I-OS then Apple iPhone.
+R16. If Apple iPhone and camera 8mp then Apple iPhone5.
+R17. If Android OS and Super Amoled Display then choose Samsung Galaxy Grand.
+R18. If Apple iPhone and camera 5mp then Apple iPhone4.
+R19. If Nokia Phone and Super Amoled Display then choose Lumia 920.
+R20. If price range above 180000rs and camera 13mp and Blackberry OS then choose Blackberry Q5.
